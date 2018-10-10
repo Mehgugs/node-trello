@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "oauth": "^0.9.15",
-    "request": "^2.81.0"
+    "request": "^2.88.0"
   },
   "devDependencies": {
     "blanket": "^1.2.3",
